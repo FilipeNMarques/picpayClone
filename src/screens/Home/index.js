@@ -4,6 +4,8 @@ import { MaterialCommunityIcons, AntDesign } from "@expo/vector-icons";
 // Components
 import Suggestions from "../../components/Suggestinos";
 import Activities from "../../components/Activities";
+import Tips from "../../components/Tips";
+import Banner from "../../components/Banner";
 
 import {
   Wrapper,
@@ -45,6 +47,8 @@ const Home = () => {
         </Header>
         <Suggestions />
         <Activities />
+        <Tips />
+        <Banner />
       </Container>
     </Wrapper>
   );
