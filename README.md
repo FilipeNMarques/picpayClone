@@ -2,18 +2,7 @@
   Clone PicPay
 </h1>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FilipeNMarques/picpayCloneb">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/FilipeNMarques/picpayCloneb?logo=typescript">
-
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/FilipeNMarques/picpayCloneb?color=green">
-
-  <br>
-
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/FilipeNMarques/picpayClone">
-
-</p>
 
 ---
 
