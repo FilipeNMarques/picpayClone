@@ -29,7 +29,7 @@ const Home = () => {
           />
           <BalanceContainer>
             <BalanceTitle>Meu saldo</BalanceTitle>
-            <Balance>R$ 0,00</Balance>
+            <Balance>R$ 1356,22</Balance>
           </BalanceContainer>
           <PromoButtons>
             <AntDesign
