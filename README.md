@@ -7,11 +7,14 @@
 ---
 
 <p align="center">
-  <img width: "150px" height: "150px" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87109343-c65b8600-c23a-11ea-9d52-e97acd992284.jpg" />
-  <img width: "150px" height: "150px" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87109344-c78cb300-c23a-11ea-9806-4444f2d55519.jpg" />
-  <img width: "150px" height: "150px" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87109346-c8254980-c23a-11ea-8841-8d36e77f772e.jpg" />
-/
-</p>
+      <img width: "150" height: "150" alt="Tela Inicial"
+      src="https://user-images.githubusercontent.com/22108833/87109343-c65b8600-c23a-11ea-9d52-e97acd992284.jpg"
+      /> <img width: "150" height: "150" alt="Tela Inicial"
+      src="https://user-images.githubusercontent.com/22108833/87109344-c78cb300-c23a-11ea-9806-4444f2d55519.jpg"
+      /> <img width: "150" height: "150" alt="Tela Inicial"
+      src="https://user-images.githubusercontent.com/22108833/87109346-c8254980-c23a-11ea-8841-8d36e77f772e.jpg"
+      /> /
+    </p>
 
 ---
 
