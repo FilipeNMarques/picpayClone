@@ -20,14 +20,14 @@ O projeto é um clone do app Picpay, como stack, foi utilizado React Native roda
 ---
 
 <h4 align="center">
-  Feito com muito ☕ por Filipe Marques <a href="mailto:filipenmarques1@gmail.com">Manda um oi ai! (:</a>
+  Feito com muito ☕ por Filipe Marques <br/><a href="mailto:filipenmarques1@gmail.com">Tens uma idéia e quer botar o projeto no ar? Fala comigo! (:</a>
 </h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipeNMarques/">
-    <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/LinkedIn-filipeNMarques-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  <a href="https://www.linkedin.com/in/filipenmarques1/">
+    <img alt="Filipe Marques" src="https://img.shields.io/badge/LinkedIn-filipeNMarques-0e76a8?style=flat&logoColor=white&logo=linkedin">
   </a>
   <a href="https://twitter.com/filipeNMarques">
-    <img alt="José Eduardo Rodrigues Pinto" src="https://img.shields.io/twitter/follow/filipeNMarques?style=flat&logoColor=white&logo=Twitter">
+    <img alt="Filipe Marques" src="https://img.shields.io/twitter/follow/filipeNMarques?style=flat&logoColor=white&logo=Twitter">
   </a>
 </p>
