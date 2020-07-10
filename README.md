@@ -4,12 +4,12 @@
 
 ---
 
-<p align="center">
-  <img src="preview/main.jpg" />
-  <img src="preview/second.jpg" />
-  <img src="preview/third.jpg" />
+<div align="center">
+  <img src="https://i.ibb.co/2ZdtRQr/main.jpg" width="250" height="500" />
+  <img src="https://i.ibb.co/r5y8Y8F/second.jpg" width="250" height="500"/>
+  <img src="https://i.ibb.co/0XWFqL0/third.jpg" width="250" height="500"/>
 
-</p>
+</div>
 
 ---
 
