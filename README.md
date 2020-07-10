@@ -1,32 +1,19 @@
-<h1 align="center">
+<h1  style="padding: 20px" align="center">
   Clone PicPay
 </h1>
 
+---
+
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FilipeNMarques/picpayCloneb">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/FilipeNMarques/picpayCloneb?logo=typescript">
-
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/FilipeNMarques/picpayCloneb?color=green">
-
-  <br>
-
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/FilipeNMarques/picpayClone">
+  <img style="width: 400px;" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87160980-3e0ccd80-c29a-11ea-8921-c9f10b7beaee.jpg" />
+  <img style="width: 400px;" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87160983-3ea56400-c29a-11ea-8d98-a4907934315c.jpg" />
+  <img style="width: 400px;" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87160986-3f3dfa80-c29a-11ea-82eb-80dfc7bdb420.jpg" />
 
 </p>
 
 ---
 
-<p align="center">
-  <img alt="Tela Inicial" src="./assets/preview/main.png" />
-  <img alt="Tela Inicial" src="./assets/preview/second.png" />
-  <img alt="Tela Inicial" src="./assets/preview/third.png" />
-/
-</p>
-
----
-
-## :money: Sobre o Projeto
+## :moneybag: Sobre o Projeto
 
 O projeto é um clone do app Picpay, como stack, foi utilizado React Native rodando o Expo, e para estilos, usamos o Styled-componentes
 
