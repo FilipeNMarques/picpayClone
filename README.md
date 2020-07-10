@@ -15,7 +15,7 @@ O projeto é um clone do app Picpay, como stack, foi utilizado React Native roda
 ---
 
 <h4 align="center">
-  Feito com muito ☕ por Filipe Marques <a href="mailto:filipenmarques1@gmail.com">Manda um oi ai! (:</a>
+  Feito com muito ☕ por Filipe Marques <br/><a href="mailto:filipenmarques1@gmail.com">Tens uma idéia e quer botar o projeto no ar? Fala comigo! (; (:</a>
 </h4>
 
 <p align="center">
