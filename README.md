@@ -5,9 +5,9 @@
 ---
 
 <p align="center">
-  <img style="width: 400px;" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87160980-3e0ccd80-c29a-11ea-8921-c9f10b7beaee.jpg" />
-  <img style="width: 400px;" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87160983-3ea56400-c29a-11ea-8d98-a4907934315c.jpg" />
-  <img style="width: 400px;" alt="Tela Inicial" src="https://user-images.githubusercontent.com/22108833/87160986-3f3dfa80-c29a-11ea-82eb-80dfc7bdb420.jpg" />
+  <img src="preview/main.jpg" />
+  <img src="preview/second.jpg" />
+  <img src="preview/third.jpg" />
 
 </p>
 
