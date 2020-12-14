@@ -1,5 +1,5 @@
 <h1  style="padding: 20px" align="center">
-  Clone PicPay
+  PicPay Clone 
 </h1>
 
 ---
@@ -13,14 +13,15 @@
 
 ---
 
-## :moneybag: Sobre o Projeto
+## :moneybag: About
 
-O projeto é um clone do app Picpay, como stack, foi utilizado React Native rodando o Expo, e para estilos, usamos o Styled-componentes
+
+Picpay clone - was utilized React Native with Expo and styled-components
 
 ---
 
 <h4 align="center">
-  Feito com muito ☕ por Filipe Marques <br/><a href="mailto:filipenmarques1@gmail.com">Tens uma idéia e quer botar o projeto no ar? Fala comigo! (:</a>
+  By ☕ por Filipe Marques <br/><a href="mailto:filipenmarques1@gmail.com">Let's talk  (:</a>
 </h4>
 
 <p align="center">
