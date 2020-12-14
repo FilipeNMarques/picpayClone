@@ -21,7 +21,7 @@ Picpay clone - was utilized React Native with Expo and styled-components
 ---
 
 <h4 align="center">
-  By ☕ por Filipe Marques <br/><a href="mailto:filipenmarques1@gmail.com">Let's talk  (:</a>
+  By Filipe Marques <br/><a href="mailto:filipenmarques1@gmail.com">Let's talk  (:</a>
 </h4>
 
 <p align="center">
